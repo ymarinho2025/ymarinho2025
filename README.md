@@ -6,7 +6,7 @@
   - Professional Course in Programming Language 60h
   - Web Front-End Programming – Fundamentals: HTML, CSS, Logic of Programming and JavaScript 132h
   - High School – Colégio Adventista de Alvorada (2025–2027)
-  - 
+    
 - ⚡ **Skills**: Python, learning HTML CSS and JavaScript
 - 🌍 Languages: Intermediate English | Basic Spanish |
 - 📫 **Contact**: ichbinmarinho@gmail.com | 
