@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻Hi there! I'm Yuri Marinho, a passionate Python Developer. Welcome to my coding journey!</h2>
+<h2 align="left">👨‍💻Hi there! I'm Yuri Marinho, a passionate Begginer Full-Stack Developer. Welcome to my coding journey!</h2>
 
 ###
 
