@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=33&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+IS+YURI+JOAO+MARINHO;I+study+systems+development+in+Python+and+HTML+CSS;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=33&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+IS+YURI+JOÃO+MARINHO;I+study+systems+development+in+Python+and+HTML+CSS;Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- GitHub Stats adaptável -->
 <div align="center">
