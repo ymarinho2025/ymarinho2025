@@ -48,9 +48,10 @@
 </div> 
 
 ### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)
@@ -64,7 +65,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=%23A259FF&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=0D1117)
 
 <!-- Footer adaptável ao tema -->
 <p align="center">
