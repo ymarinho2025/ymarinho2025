@@ -50,10 +50,10 @@
 
 ## 🏆 Certificações / Certifications:
 
-- 🏅 Technical Course in Systems Development – (Senac RS) – **08/2027**
+- 🏅 Technical Course in Systems Development – (Senac RS) – **12/2025 - 08/2027**
 - 🏅 echnical Course in Computer Maintenance and Programming – (Microlins) - **04/2025**
 - 🏅 Professional Course in Python - (Anhanguera Educacional) - **11/2025**
-- 🏅 Web Front-End Programming, Fundamentals: HTML, CSS, Logic of Programming and JavaScript – (Serliv/Udemy) - **03/2026**
+- 🏅 Web Front-End Programming, Fundamentals: HTML, CSS, Logic of Programming and JavaScript – (Serliv/Udemy) - **11/2025 - 03/2026**
 
 ## 📫 Contato / Contact:
 
