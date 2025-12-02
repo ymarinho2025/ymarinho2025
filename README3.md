@@ -46,7 +46,7 @@
 
 ## 🚀 Experiência Profissional / Professional Experience:
 
-- 💼 
+- 💼 Searching...
 
 ## 🏆 Certificações / Certifications:
 
