@@ -1,6 +1,6 @@
 ## Hi, I’m Yuri Marinho
 
-- 👨‍💻 Back-end Junior Developer  
+- 👨‍💻 Full-Stack Begginer Developer  
 - 🎓 **Education**:
   - Technical Course in Systems Development (Senac) 
     01/12/2025 – 23/08/2027 | 1200h
