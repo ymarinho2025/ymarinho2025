@@ -2,11 +2,11 @@
 
 - 👨‍💻 Full-Stack Begginer Developer  
 - 🎓 **Education**:
-  - Technical Course in Systems Development (Senac) 
+  - Technical Course in Systems Development (Senac RS) 
     01/12/2025 – 23/08/2027 | 1200h
   - Technical Course in Computer Maintenance and Programming (Microlins)
     17/04/2025 | 96h
-  - Professional Course in Python (Anhanguera)
+  - Professional Course in Python (Anhanguera Educacional)
     14/11/2025 | 60h
   - Web Front-End Programming – Fundamentals: HTML, CSS, Logic of Programming and JavaScript (Serliv/Udemy)
     14/11/2025 - 14/03/2026 | 132h
