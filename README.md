@@ -8,7 +8,7 @@
     17/04/2025 | 96h
   - Professional Course in Python (Anhanguera)
     14/11/2025 | 60h
-  - Web Front-End Programming – Fundamentals: HTML, CSS, Logic of Programming and JavaScript
+  - Web Front-End Programming – Fundamentals: HTML, CSS, Logic of Programming and JavaScript (Serliv/Udemy)
     14/11/2025 - 14/03/2026 | 132h
   - High School – Colégio Adventista
     2025–2027
