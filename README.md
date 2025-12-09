@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Sou o Yuri Marinho, um jovem de 15 anos e</h1>
+<h2 align="center">Sou o Yuri Marinho, um jovem de 15 anos que busca evoluir cada vez mais no meio da técnologia.</h2>
 
 ###
 
