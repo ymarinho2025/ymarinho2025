@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">PROGRAMADOR FULL-STACK Iniciante - Estudante de Analise e Desenvolvimento de sistemas no Senac-RS</p>
+<p align="center">PROGRAMADOR FULL-STACK Iniciante - Estudante de Analise e Desenvolvimento de sistemas no Senac-RS</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/ymarinhotech/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">CADA DIA APRENDENDO MAIS UM POUCO SOBRE PROGRAMAÇÃO..</h4>
+<h4 align="center">CADA DIA APRENDENDO MAIS UM POUCO SOBRE PROGRAMAÇÃO..</h4>
 
 ###
 
