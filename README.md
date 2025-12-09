@@ -4,19 +4,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDc2dmEydXlkdWhqMHpzNWFwMXdhdmt4aW5rMjd6Y2k0OXR6ZWF4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVpaGdvdHAxZG16OTh3aDJ1Z3Rpenp4djYwOGtkdGJzcHluaDQ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  />
-
-###
-
 <h1 align="left">Sou o Yuri Marinho, um jovem de 15 anos e</h1>
+
+###
+
+<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk0eXQ0c2MzNmh0Z3k5dndmcWJyZHpwYnd5dXBlN3JzYnRsdzEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -24,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/ymarinhotech/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -40,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -55,14 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ymarinho2025/ymarinho2025/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ymarinho2025/ymarinho2025/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ymarinho2025/ymarinho2025/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
