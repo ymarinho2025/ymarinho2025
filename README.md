@@ -8,25 +8,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk0eXQ0c2MzNmh0Z3k5dndmcWJyZHpwYnd5dXBlN3JzYnRsdzEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
 <p align="center">PROGRAMADOR FULL-STACK Iniciante - Estudante de Analise e Desenvolvimento de sistemas no Senac-RS</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ymarinho2025/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ymarinhotech/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://marinhonetwork.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
 
 ###
 
@@ -39,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -48,6 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 ###
@@ -56,23 +44,27 @@
 
 ###
 
-<p align="left">Curso Técnico em Desenvolvimento de Sistemas (Senac RS)<br>2025 – 2027 | 1.200h</p>
+<p align="left">Ensino Médio – Colégio Adventista  <br>2025 – 2027</p>
 
 ###
 
-<p align="left">Curso Técnico em Manutenção e Programação de Computadores (Microlins)<br>17/04/2025 | 96h</p>
+<p align="left">Curso Técnico em Desenvolvimento de Sistemas – Senac RS  <br>2025 – 2027 | 1.200h</p>
 
 ###
 
-<p align="left">Curso Profissional de Python (Anhanguera Educacional)<br>14/11/2025 | 60h</p>
+<p align="left">Manutenção e Programação de Computadores – Microlins  <br>17/04/2025 | 96h</p>
 
 ###
 
-<p align="left">Programação Web Front-End – Fundamentos: HTML, CSS, Lógica de Programação e JavaScript (Serliv/Udemy)<br>2025 – 2026 | 132h</p>
+<p align="left">Curso Profissional de Python – Anhanguera Educacional  <br>14/11/2025 | 60h</p>
 
 ###
 
-<p align="left">Ensino Médio – Colégio Adventista<br>2025–2027</p>
+<p align="left">Programação Web Front-End – Fundamentos (HTML, CSS, JavaScript e Lógica de Programação) – Serliv / Udemy  <br>2025 – 2026 | 132h</p>
+
+###
+
+<p align="left">Java COMPLETO – Programação Orientada a Objetos + Projetos – Nelio Alves (Udemy)  <br>2026 | 54h</p>
 
 ###
 
@@ -84,7 +76,11 @@
 
 ###
 
-<p align="left">Espanhol Básico</p>
+<p align="left">Alemão: Iniciante</p>
+
+###
+
+<p align="left">Espanhol: Iniciante</p>
 
 ###
 
